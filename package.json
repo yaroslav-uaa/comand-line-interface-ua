@@ -1,0 +1,29 @@
+{
+  "name": "comand-line-interface-ua",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js --ignore db"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroslav-uaa/comand-line-interface-ua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroslav-uaa/comand-line-interface-ua/issues"
+  },
+  "homepage": "https://github.com/yaroslav-uaa/comand-line-interface-ua#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^7.2.0",
+    "uuid": "^8.3.2"
+  },
+  "description": ""
+}
