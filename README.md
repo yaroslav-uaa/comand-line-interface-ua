@@ -12,7 +12,7 @@ node index.js --action="list"
 node index.js --action="get" --id=5
 ![screenshot](./img/get.png)
 
-# Добавялем контакт
+# Добавляємо контакт
 
 node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
 ![screenshot](./img/add.png)
